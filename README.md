@@ -35,6 +35,10 @@ The LLM is constrained to one of three words. The contract then compares the cla
 - `strict_eq` around an LLM is tight. If validators disagree on borderline notes, the tx fails rather than inventing a class.
 - Deploy on Studio / testnet and attach the tx hash before submitting to the Portal.
 
+## Update
+ - Updated contract to correct an error 
+ - https://studio.genlayer.com/?import-contract=0x10826db678eef38d4CA739a4E26d8261bd3d3a01
+
 ## License
 
 MIT
